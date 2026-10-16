@@ -1,18 +1,18 @@
 {
+  "version": "0.1.2",
+  "product": "TMC",
+  "available": true,
+  "notes": "Distribution WMS directe ; moteur TGG DRAFT",
+  "channel": "stable",
   "platforms": {
     "windows-x64-portable": {
-      "bytes": 100063116,
-      "sha256": "a6be69807e29f2703f47bbbc6ef29cee0e95fb305513539d58d8bb324a9357ec",
-      "fileName": "Taikeron_Map_Chooser_0.1.1_Portable.exe",
-      "url": "https://github.com/servicesathe-eng/Taikeron-TMC-Releases/releases/download/tmc-v0.1.1/Taikeron_Map_Chooser_0.1.1_Portable.exe"
+      "fileName": "Taikeron_Map_Chooser_0.1.2_Portable.exe",
+      "bytes": 100745546,
+      "sha256": "3cbfa338a244cb9297ed7ef5705317631dca3cd72b567ef608db3dea1ab033b4",
+      "url": "https://github.com/servicesathe-eng/Taikeron-TMC-Releases/releases/download/tmc-v0.1.2/Taikeron_Map_Chooser_0.1.2_Portable.exe"
     }
   },
-  "format": "taikeron_release_manifest",
-  "available": true,
   "schemaVersion": "1",
-  "publishedAt": "2026-10-16T14:19:27.8798126Z",
-  "product": "TMC",
-  "version": "0.1.1",
-  "channel": "stable",
-  "notes": "Distribution WMS directe ; moteur TGG DRAFT"
+  "format": "taikeron_release_manifest",
+  "publishedAt": "2026-10-16T15:38:21.6888007Z"
 }
